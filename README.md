@@ -68,7 +68,7 @@ By modifying this file, the password character set can be easily updated.
 ---
 
 ## 📷 Output Screenshot
-![Random Password Generator Output](output.png)
+![Random Password Generator Output](https://github.com/Shaikyasmeen1/Random-Password-Generator/blob/22555d328b46b1f11a2cc53ef117ad90e75aff0d/Screenshot%202025-12-14%20114830.png)
 
 ---
 
